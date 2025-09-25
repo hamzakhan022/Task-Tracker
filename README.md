@@ -170,9 +170,9 @@ A comprehensive task and team management system built with modern web technologi
 ## 📞 Support & Contact
 
 For technical support, feature requests, or project inquiries, please contact:
-- Email: [your-email@example.com]
-- Portfolio: [your-portfolio-url]
-- LinkedIn: [your-linkedin-profile]
+- Email: ameerhamza200345@gmail.com
+- Portfolio: https://muhammadameerhamza.vercel.app/
+- LinkedIn: www.linkedin.com/in/muhammad-ameer-hamza-416154363
 
 ## 🔄 Future Enhancements
 
